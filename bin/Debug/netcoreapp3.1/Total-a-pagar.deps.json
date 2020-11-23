@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Total-a-pagar/1.0.0": {
+        "runtime": {
+          "Total-a-pagar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Total-a-pagar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

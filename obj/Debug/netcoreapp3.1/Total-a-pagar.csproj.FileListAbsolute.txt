@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\bin\Debug\netcoreapp3.1\Total-a-pagar.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Total-a-pagar\obj\Debug\netcoreapp3.1\Total-a-pagar.genruntimeconfig.cache
