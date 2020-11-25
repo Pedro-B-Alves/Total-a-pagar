@@ -13,14 +13,21 @@ namespace Total_a_pagar
             Console.WriteLine("Digite o preço unitário");
             float preco = float.Parse(Console.ReadLine());
             float total = quantidade*preco;
+            Console.WriteLine($"O valor total é {total} Reais.");
             if(quantidade<=5){
-                float pagar = total - ((quantidade * preco) * 0.02f);
+                float desconto = ((quantidade * preco) * 0.02f);
+                Console.WriteLine($"O desconto é de {desconto} Reais.");
+                float pagar = total - desconto;
                 Console.WriteLine($"O total a pagar é {pagar} Reais.");
             }else if(quantidade>5 && quantidade<=10){
-                float pagar = total - ((quantidade * preco) * 0.03f);
+                float desconto = ((quantidade * preco) * 0.03f);
+                Console.WriteLine($"O desconto é de {desconto} Reais.");
+                float pagar = total - desconto;
                 Console.WriteLine($"O total a pagar é {pagar} Reais.");
             }else{
-                float pagar = total - ((quantidade * preco) * 0.05f);
+                float desconto = ((quantidade * preco) * 0.05f);
+                Console.WriteLine($"O desconto é de {desconto} Reais.");
+                float pagar = total - desconto;
                 Console.WriteLine($"O total a pagar é {pagar} Reais.");
             }
         }
